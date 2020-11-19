@@ -1,0 +1,45 @@
+1. clean data minimally
+2. run every model
+3. Clean again 
+4. run model again etc...
+
+
+Preprocessing
+	- Target gapfilling NaN to zeroes
+	- Data gapfilling
+		- Age
+		- Income group
+		- Wealth rating
+		- Months since last prom response
+	- Outlier management
+		- k means clustering?
+		- Threshold?
+	- Categorical data handling
+	
+Modelling
+	Supervised
+	- Check which ones we want to use
+	- Important to use all as relevancy can change after data processing
+	Unsupervised
+	- Check which ones we want to use
+	- Important to use all as relevancy can change after data processing
+
+
+Tasks
+	1. Get to know data and GitHub
+	2. Coding
+		- Data processing
+		- Model building
+	3. Experimentation
+		- Using models
+		- Updating processing
+		- Keep notes on findings
+		- Repeat
+	4. Write report
+		- In Jupyter Notebook
+
+
+
+
+We should adress the imbalance of the data
+Can you intergrate different notebooks into eachother (Leon)
